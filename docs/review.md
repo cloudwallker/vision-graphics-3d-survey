@@ -40,7 +40,7 @@
 
 NeRF常用的离散体渲染形式为：
 
-$$\widehat C(r)=\sum_{i=1}^{N}T_i\alpha_i c_i,\qquad \alpha_i=1-e^{-\sigma_i\delta_i},\qquad T_i=e^{-\sum_{j<i}\sigma_j\delta_j}.$$
+$$\widehat C(r)=\sum_{i=1}^{N}T_i\alpha_i c_i,\qquad \alpha_i=1-e^{-\sigma_i\delta_i},\qquad T_i=e^{-\sum_{j\lt i}\sigma_j\delta_j}.$$
 
 光线为$r(t)=o+td$；$o$是相机位置，$d$是方向；$i$为沿线采样点，$N$为采样数；$c_i$是RGB颜色，$\sigma_i$是密度，$\delta_i$是相邻采样距离；$\alpha_i$是局部遮挡程度，$T_i$是到该点之前仍透过的光比例。前面的不透明物体会减小后面颜色的权重。若第一点$\alpha_1=0.8$，第二点$\alpha_2=0.5$，两点权重分别为$0.8$和$0.2\times0.5=0.1$；剩余$0.1$还可由背景贡献。不能把两点颜色直接各取一半。这里用标准索引$j$写透射率，避免PDF抽取产生下标混淆；见[LuSh-NeRF原PDF第4页](https://proceedings.neurips.cc/paper_files/paper/2024/file/c69465280855cfe25d566e359da140c1-Paper-Conference.pdf#page=4)。
 
