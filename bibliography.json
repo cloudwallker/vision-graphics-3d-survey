@@ -1,0 +1,1339 @@
+[
+  {
+    "paper_id": "P004",
+    "title": "Big2Small: A Unifying Neural Network Framework for Model Compression",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "http://arxiv.org/abs/2603.29768"
+  },
+  {
+    "paper_id": "P010",
+    "title": "Anti-Confounding Hashing: Enhancing Radiological Image Retrieval via Debiased Weighting and Counterfactual Reasoning",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760"
+  },
+  {
+    "paper_id": "P014",
+    "title": "ERL-MR: Harnessing the Power of Euler Feature Representations for Balanced Multi-modal Learning",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.1145/3664647.3681215"
+  },
+  {
+    "paper_id": "P015",
+    "title": "Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.1145/3664647.3681379"
+  },
+  {
+    "paper_id": "P016",
+    "title": "When VR Meets BCI: (Un)Observable Brainwave-Aware Privacy Reconstruction in the Metaverse via Unrestricted Inbuilt Motion Sensors",
+    "index_year": 2026,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P025",
+    "title": "Sonicumos: An Enhanced Active Face Liveness Detection System via Ultrasonic and Video Signals",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P031",
+    "title": "Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P032",
+    "title": "Non-intrusive and Unconstrained Keystroke Inference in VR Platforms via Infrared Side Channel",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P034",
+    "title": "LVLM-FDA: Protecting Large Vision-Language Models via Fast Detection of Malicious Attempts",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P043",
+    "title": "D3: Training-Free AI-Generated Video Detection Using Second-Order Features",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P048",
+    "title": "Intellectual Property Protection of Diffusion Models via the Watermark Diffusion Process",
+    "index_year": 2024,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P049",
+    "title": "No-Box Universal Adversarial Perturbations Against Image Classifiers via Artificial Textures",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P051",
+    "title": "Region-Level Policy Optimization for Fine-grained MLLM Perception",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2609.19745v1"
+  },
+  {
+    "paper_id": "P052",
+    "title": "DEFUSE: Generalizable Backdoor Defense for Self-Supervised Encoders with Generative Priors",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2608.25851v1"
+  },
+  {
+    "paper_id": "P053",
+    "title": "Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2608.22419v1"
+  },
+  {
+    "paper_id": "P054",
+    "title": "RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2608.07088v1"
+  },
+  {
+    "paper_id": "P055",
+    "title": "The Platonic Defense: Backdoor Defense for Self-Supervised Encoders in the Era of Large Scale Pre-training",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2606.29451v1"
+  },
+  {
+    "paper_id": "P058",
+    "title": "HDRFace: Rethinking Face Restoration with High-Dimensional Representation",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2605.14821v1"
+  },
+  {
+    "paper_id": "P059",
+    "title": "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2604.06912v1"
+  },
+  {
+    "paper_id": "P060",
+    "title": "Confidence Calibration under Ambiguous Ground Truth",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2603.22879v1"
+  },
+  {
+    "paper_id": "P061",
+    "title": "PA-Attack: Guiding Gray-Box Attacks on LVLM Vision Encoders with Prototypes and Attention",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2602.19418v1"
+  },
+  {
+    "paper_id": "P062",
+    "title": "Rethinking Frequency Modeling: Tail-Aware Dynamic Adversarial Training for Long-Tailed Robustness",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/rethinking-frequency-modeling-tail-aware-dynamic-adversarial-trai/"
+  },
+  {
+    "paper_id": "P063",
+    "title": "Diversifying Counterattacks: Orthogonal Exploration for Robust CLIP Inference",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2511.09064v1"
+  },
+  {
+    "paper_id": "P064",
+    "title": "Revisiting Adversarial Training under Hyperspectral Image",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2510.01014v2"
+  },
+  {
+    "paper_id": "P066",
+    "title": "Catching the Details: Self-Distilled RoI Predictors for Fine-Grained MLLM Perception",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2509.16944v3"
+  },
+  {
+    "paper_id": "P067",
+    "title": "Efficient Rectified Flow for Image Fusion",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2509.16549v2"
+  },
+  {
+    "paper_id": "P068",
+    "title": "Backdooring Self-Supervised Contrastive Learning by Noisy Alignment",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2508.14015v1"
+  },
+  {
+    "paper_id": "P070",
+    "title": "Sample Margin-Aware Recalibration of Temperature Scaling",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2506.23492v2"
+  },
+  {
+    "paper_id": "P072",
+    "title": "VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2505.17440v2"
+  },
+  {
+    "paper_id": "P074",
+    "title": "Beyond One-Hot Labels: Semantic Mixing for Model Calibration",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2504.13548v2"
+  },
+  {
+    "paper_id": "P076",
+    "title": "Survey of Adversarial Robustness in Multimodal Large Language Models",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2503.13962v1"
+  },
+  {
+    "paper_id": "P077",
+    "title": "Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2502.01969v2"
+  },
+  {
+    "paper_id": "P078",
+    "title": "VSSD: Vision Mamba with Non-Causal State Space Duality",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2407.18559v2"
+  },
+  {
+    "paper_id": "P079",
+    "title": "Improving fast adversarial training paradigm: An example taxonomy perspective",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2408.03944v2"
+  },
+  {
+    "paper_id": "P080",
+    "title": "Gradient Perturbation Guidance for Boosting Sparse Adversarial Attack Transferability",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/gradient-perturbation-guidance-for-boosting-sparse-adversarial-at/"
+  },
+  {
+    "paper_id": "P081",
+    "title": "Exploring the Coordination of Frequency and Attention in Masked Image Modeling",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2211.15362v3"
+  },
+  {
+    "paper_id": "P082",
+    "title": "Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2408.08502v2"
+  },
+  {
+    "paper_id": "P083",
+    "title": "Divide and conquer: Frequency-aware contrastive adversarial training for robust point cloud classification",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/divide-and-conquer-frequency-aware-contrastive-adversarial-traini/"
+  },
+  {
+    "paper_id": "P084",
+    "title": "Adversarially Robust Neural Architectures",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2009.00902v2"
+  },
+  {
+    "paper_id": "P085",
+    "title": "Adversarial Robustness via Deformable Convolution with Stochasticity",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://proceedings.mlr.press/v267/ma25h.html"
+  },
+  {
+    "paper_id": "P086",
+    "title": "Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2411.09219v1"
+  },
+  {
+    "paper_id": "P087",
+    "title": "Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Models",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2410.18639v4"
+  },
+  {
+    "paper_id": "P088",
+    "title": "Feature Clipping for Uncertainty Calibration",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2410.19796v1"
+  },
+  {
+    "paper_id": "P089",
+    "title": "Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2410.12295v1"
+  },
+  {
+    "paper_id": "P090",
+    "title": "Improving Fast Adversarial Training via Self-Knowledge Guidance",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2409.17589v1"
+  },
+  {
+    "paper_id": "P091",
+    "title": "Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2405.14174v1"
+  },
+  {
+    "paper_id": "P099",
+    "title": "Reflective Flare Removal Using Image Bursts",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P100",
+    "title": "GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P101",
+    "title": "LiveMatte: Dynamic Scene Background Restoration and Selective Portrait Patch Enhancement",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P102",
+    "title": "World-Shaper: A Unified Framework for 360° Panoramic Editing",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P103",
+    "title": "Probabilistic Salient Object Ranking",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P104",
+    "title": "TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P105",
+    "title": "GenSplat: Bridging the Generalization Gap in 3DGS Language Comprehension",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P106",
+    "title": "When Glass Disappears at Night: A Novel NIR-RGB Multimodal Solution",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P107",
+    "title": "Salient Object Ranking via Cyclical Perception-Viewing Interaction Modeling",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P108",
+    "title": "MDeRainNet: An Efficient Macro-pixel Image Rain Removal Network",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P109",
+    "title": "OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P110",
+    "title": "RefSTAR: Blind Face Image Restoration with Reference Selection, Transfer, and Reconstruction",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P111",
+    "title": "Multi-Semantic Modeling for Glass Surface Detection in the Wild",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P112",
+    "title": "Video Mirror Detection with the Motion-in-Depth Cue",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P113",
+    "title": "StyleSculptor: Zero-Shot Style-Controllable 3D Asset Generation with Texture-Geometry Dual Guidance",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P114",
+    "title": "Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P115",
+    "title": "Voyager: Exploring Infinite 3D World with Depth-Consistent Video Diffusion",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P116",
+    "title": "GenColor: Generative and Expressive Color Enhancement with Pixel-Perfect Texture Preservation",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P117",
+    "title": "Unleashing the Potential of Multimodal LLMs for Zero-Shot Spatio-Temporal Video Grounding",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P118",
+    "title": "HOComp: Interaction-Aware Human-Object Composition",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P119",
+    "title": "SeHDR: Single-Exposure HDR Scene Reconstruction via 3D Gaussian Bracketing",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P120",
+    "title": "4D Gaussian Videos with Motion Layering",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P121",
+    "title": "An Adaptive AI-based Virtual Reality Sports System for Adolescents with Excess Body Weight: a Randomised Controlled Trial",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P122",
+    "title": "MAGE: Single Image to Material-Aware 3D via the Multi-View G-Buffer Estimation Model",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P123",
+    "title": "VODiff: Controlling Object Visibility Order in Text-to-Image Generation",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P124",
+    "title": "Language-Guided Salient Object Ranking",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P125",
+    "title": "A Contrastive-Learning Framework for Unsupervised Salient Object Detection",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P126",
+    "title": "Phidias : A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P127",
+    "title": "DreamPhysics: Learning Physics-Based 3D Dynamics with Video Diffusion Priors",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P128",
+    "title": "Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P129",
+    "title": "Leveraging RGB-D Data with Cross-Modal Context Mining for Glass Surface Detection",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P130",
+    "title": "GhostingNet: a Novel Approach for Glass Surface Detection with Ghosting Cues",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P131",
+    "title": "Gaussian Surfel Splatting for Live Human Performance Capture",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P132",
+    "title": "Revisiting the Integration of Convolution and Attention for Vision Backbone",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P133",
+    "title": "LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P134",
+    "title": "Boosting Weakly Supervised Referring Image Segmentation via Progressive Comprehension",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P135",
+    "title": "PoseSOR: Human Pose Can Guide Our Attention",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P153",
+    "title": "Multi-level traffic-responsive tilt camera surveillance through predictive correlated online learning",
+    "index_year": 2024,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2408.02208"
+  },
+  {
+    "paper_id": "P192",
+    "title": "How to Utilize Complementary Vision-Text Information for 2D Structure Understanding",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P209",
+    "title": "PoemDirector: A Multi-Agent Context-Adaptive Instructional Mode Selection Framework for Chinese Classical Poetry Video Generation",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P211",
+    "title": "GeoArena: Evaluating Open-World Geographic Reasoning in Large Vision-Language Models",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P224",
+    "title": "ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P230",
+    "title": "When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P241",
+    "title": "Clue2Emo: A Brain-Inspired Framework for Open-Vocabulary Multimodal Emotion Recognition",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P247",
+    "title": "ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P254",
+    "title": "Renormalization Group Guided Tensor Network Structure Search",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P255",
+    "title": "Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P259",
+    "title": "GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P268",
+    "title": "Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P276",
+    "title": "Mitigating Stereotypes in Text-to-Image Generation: A Novel Perspective of Selective Neural Suppression",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P287",
+    "title": "Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P292",
+    "title": "NoteLLM-2: Multimodal Large Representation Models for Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P302",
+    "title": "FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P322",
+    "title": "G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "大语言模型与智能体"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P323",
+    "title": "Association of Objects May Engender Stereotypes: Mitigating Association-Engendered Stereotypes in Text-to-Image Generation",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P331",
+    "title": "Multimodal Recommender Systems: A Survey",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P349",
+    "title": "TIME: A Taylor-Inspired Mixed-Effects Model for IDH Prediction",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tbme.2026.3693918"
+  },
+  {
+    "paper_id": "P350",
+    "title": "Enhancing X-ray Image Classification through Heterogeneous Federated Learning with Natural Image-Augmented Models",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "安全与隐私",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tpami.2026.3704679"
+  },
+  {
+    "paper_id": "P357",
+    "title": "Lightweight Network Enhancing High-Resolution Feature Representation for Efficient Low Dose CT Denoising",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/jbhi.2025.3591427"
+  },
+  {
+    "paper_id": "P358",
+    "title": "CausalMixNet: A mixed-attention framework for causal intervention in robust medical image diagnosis",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1016/j.media.2025.103581"
+  },
+  {
+    "paper_id": "P359",
+    "title": "Dynamic Graph Representation Learning for Spatio-Temporal Neuroimaging Analysis",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tcyb.2025.3531657"
+  },
+  {
+    "paper_id": "P364",
+    "title": "Mixed Prototype Correction for Causal Inference in Medical Image Classification",
+    "index_year": 2024,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://doi.org/10.1145/3664647.3681395"
+  },
+  {
+    "paper_id": "P365",
+    "title": "Better Eyes, Better Thoughts: Why Vision Chain-of-Thought Fails in Medicine",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2603.06665"
+  }
+]
