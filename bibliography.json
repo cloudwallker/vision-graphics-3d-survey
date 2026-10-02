@@ -10,7 +10,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "http://arxiv.org/abs/2603.29768"
+    "source_url": "http://arxiv.org/abs/2603.29768",
+    "discussion_path": "论文解读/05-高效视觉架构与学习.md#paper-p004"
   },
   {
     "paper_id": "P010",
@@ -24,7 +25,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760"
+    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p010"
   },
   {
     "paper_id": "P014",
@@ -37,7 +39,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.1145/3664647.3681215"
+    "source_url": "https://doi.org/10.1145/3664647.3681215",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p014"
   },
   {
     "paper_id": "P015",
@@ -51,7 +54,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.1145/3664647.3681379"
+    "source_url": "https://doi.org/10.1145/3664647.3681379",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p015"
   },
   {
     "paper_id": "P016",
@@ -64,7 +68,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p016"
   },
   {
     "paper_id": "P025",
@@ -76,7 +81,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p025"
   },
   {
     "paper_id": "P031",
@@ -89,7 +95,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p031"
   },
   {
     "paper_id": "P032",
@@ -101,7 +108,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p032"
   },
   {
     "paper_id": "P034",
@@ -115,7 +123,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p034"
   },
   {
     "paper_id": "P043",
@@ -128,7 +137,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p043"
   },
   {
     "paper_id": "P048",
@@ -141,7 +151,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p048"
   },
   {
     "paper_id": "P049",
@@ -154,7 +165,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p049"
   },
   {
     "paper_id": "P051",
@@ -167,7 +179,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2609.19745v1"
+    "source_url": "https://arxiv.org/abs/2609.19745v1",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p051"
   },
   {
     "paper_id": "P052",
@@ -180,7 +193,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2608.25851v1"
+    "source_url": "https://arxiv.org/abs/2608.25851v1",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p052"
   },
   {
     "paper_id": "P053",
@@ -194,7 +208,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2608.22419v1"
+    "source_url": "https://arxiv.org/abs/2608.22419v1",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p053"
   },
   {
     "paper_id": "P054",
@@ -207,7 +222,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2608.07088v1"
+    "source_url": "https://arxiv.org/abs/2608.07088v1",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p054"
   },
   {
     "paper_id": "P055",
@@ -220,7 +236,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2606.29451v1"
+    "source_url": "https://arxiv.org/abs/2606.29451v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p055"
   },
   {
     "paper_id": "P058",
@@ -231,7 +248,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2605.14821v1"
+    "source_url": "https://arxiv.org/abs/2605.14821v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p058"
   },
   {
     "paper_id": "P059",
@@ -244,7 +262,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2604.06912v1"
+    "source_url": "https://arxiv.org/abs/2604.06912v1",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p059"
   },
   {
     "paper_id": "P060",
@@ -257,7 +276,8 @@
       "生物医学AI"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2603.22879v1"
+    "source_url": "https://arxiv.org/abs/2603.22879v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p060"
   },
   {
     "paper_id": "P061",
@@ -271,7 +291,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2602.19418v1"
+    "source_url": "https://arxiv.org/abs/2602.19418v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p061"
   },
   {
     "paper_id": "P062",
@@ -284,7 +305,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/rethinking-frequency-modeling-tail-aware-dynamic-adversarial-trai/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/rethinking-frequency-modeling-tail-aware-dynamic-adversarial-trai/",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p062"
   },
   {
     "paper_id": "P063",
@@ -297,7 +319,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2511.09064v1"
+    "source_url": "https://arxiv.org/abs/2511.09064v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p063"
   },
   {
     "paper_id": "P064",
@@ -309,7 +332,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2510.01014v2"
+    "source_url": "https://arxiv.org/abs/2510.01014v2",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p064"
   },
   {
     "paper_id": "P066",
@@ -321,7 +345,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2509.16944v3"
+    "source_url": "https://arxiv.org/abs/2509.16944v3",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p066"
   },
   {
     "paper_id": "P067",
@@ -333,7 +358,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2509.16549v2"
+    "source_url": "https://arxiv.org/abs/2509.16549v2",
+    "discussion_path": "论文解读/05-高效视觉架构与学习.md#paper-p067"
   },
   {
     "paper_id": "P068",
@@ -346,7 +372,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2508.14015v1"
+    "source_url": "https://arxiv.org/abs/2508.14015v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p068"
   },
   {
     "paper_id": "P070",
@@ -358,7 +385,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2506.23492v2"
+    "source_url": "https://arxiv.org/abs/2506.23492v2",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p070"
   },
   {
     "paper_id": "P072",
@@ -372,7 +400,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2505.17440v2"
+    "source_url": "https://arxiv.org/abs/2505.17440v2",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p072"
   },
   {
     "paper_id": "P074",
@@ -384,7 +413,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2504.13548v2"
+    "source_url": "https://arxiv.org/abs/2504.13548v2",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p074"
   },
   {
     "paper_id": "P076",
@@ -398,7 +428,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2503.13962v1"
+    "source_url": "https://arxiv.org/abs/2503.13962v1",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p076"
   },
   {
     "paper_id": "P077",
@@ -411,7 +442,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2502.01969v2"
+    "source_url": "https://arxiv.org/abs/2502.01969v2",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p077"
   },
   {
     "paper_id": "P078",
@@ -423,7 +455,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2407.18559v2"
+    "source_url": "https://arxiv.org/abs/2407.18559v2",
+    "discussion_path": "论文解读/05-高效视觉架构与学习.md#paper-p078"
   },
   {
     "paper_id": "P079",
@@ -436,7 +469,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2408.03944v2"
+    "source_url": "https://arxiv.org/abs/2408.03944v2",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p079"
   },
   {
     "paper_id": "P080",
@@ -449,7 +483,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/gradient-perturbation-guidance-for-boosting-sparse-adversarial-at/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/gradient-perturbation-guidance-for-boosting-sparse-adversarial-at/",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p080"
   },
   {
     "paper_id": "P081",
@@ -461,7 +496,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2211.15362v3"
+    "source_url": "https://arxiv.org/abs/2211.15362v3",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p081"
   },
   {
     "paper_id": "P082",
@@ -474,7 +510,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2408.08502v2"
+    "source_url": "https://arxiv.org/abs/2408.08502v2",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p082"
   },
   {
     "paper_id": "P083",
@@ -487,7 +524,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/divide-and-conquer-frequency-aware-contrastive-adversarial-traini/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/divide-and-conquer-frequency-aware-contrastive-adversarial-traini/",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p083"
   },
   {
     "paper_id": "P084",
@@ -500,7 +538,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2009.00902v2"
+    "source_url": "https://arxiv.org/abs/2009.00902v2",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p084"
   },
   {
     "paper_id": "P085",
@@ -512,7 +551,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://proceedings.mlr.press/v267/ma25h.html"
+    "source_url": "https://proceedings.mlr.press/v267/ma25h.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p085"
   },
   {
     "paper_id": "P086",
@@ -523,7 +563,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2411.09219v1"
+    "source_url": "https://arxiv.org/abs/2411.09219v1",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p086"
   },
   {
     "paper_id": "P087",
@@ -536,7 +577,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2410.18639v4"
+    "source_url": "https://arxiv.org/abs/2410.18639v4",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p087"
   },
   {
     "paper_id": "P088",
@@ -548,7 +590,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2410.19796v1"
+    "source_url": "https://arxiv.org/abs/2410.19796v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p088"
   },
   {
     "paper_id": "P089",
@@ -560,7 +603,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2410.12295v1"
+    "source_url": "https://arxiv.org/abs/2410.12295v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p089"
   },
   {
     "paper_id": "P090",
@@ -573,7 +617,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2409.17589v1"
+    "source_url": "https://arxiv.org/abs/2409.17589v1",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p090"
   },
   {
     "paper_id": "P091",
@@ -585,7 +630,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2405.14174v1"
+    "source_url": "https://arxiv.org/abs/2405.14174v1",
+    "discussion_path": "论文解读/05-高效视觉架构与学习.md#paper-p091"
   },
   {
     "paper_id": "P099",
@@ -596,7 +642,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p099"
   },
   {
     "paper_id": "P100",
@@ -608,7 +655,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p100"
   },
   {
     "paper_id": "P101",
@@ -619,7 +667,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p101"
   },
   {
     "paper_id": "P102",
@@ -630,7 +679,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p102"
   },
   {
     "paper_id": "P103",
@@ -641,7 +691,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p103"
   },
   {
     "paper_id": "P104",
@@ -653,7 +704,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p104"
   },
   {
     "paper_id": "P105",
@@ -665,7 +717,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p105"
   },
   {
     "paper_id": "P106",
@@ -676,7 +729,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p106"
   },
   {
     "paper_id": "P107",
@@ -687,7 +741,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p107"
   },
   {
     "paper_id": "P108",
@@ -699,7 +754,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/05-高效视觉架构与学习.md#paper-p108"
   },
   {
     "paper_id": "P109",
@@ -711,7 +767,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p109"
   },
   {
     "paper_id": "P110",
@@ -722,7 +779,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p110"
   },
   {
     "paper_id": "P111",
@@ -733,7 +791,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p111"
   },
   {
     "paper_id": "P112",
@@ -744,7 +803,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p112"
   },
   {
     "paper_id": "P113",
@@ -755,7 +815,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p113"
   },
   {
     "paper_id": "P114",
@@ -766,7 +827,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p114"
   },
   {
     "paper_id": "P115",
@@ -777,7 +839,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p115"
   },
   {
     "paper_id": "P116",
@@ -788,7 +851,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p116"
   },
   {
     "paper_id": "P117",
@@ -800,7 +864,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p117"
   },
   {
     "paper_id": "P118",
@@ -812,7 +877,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p118"
   },
   {
     "paper_id": "P119",
@@ -823,7 +889,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p119"
   },
   {
     "paper_id": "P120",
@@ -834,7 +901,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p120"
   },
   {
     "paper_id": "P121",
@@ -846,7 +914,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p121"
   },
   {
     "paper_id": "P122",
@@ -857,7 +926,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p122"
   },
   {
     "paper_id": "P123",
@@ -868,7 +938,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p123"
   },
   {
     "paper_id": "P124",
@@ -880,7 +951,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p124"
   },
   {
     "paper_id": "P125",
@@ -891,7 +963,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p125"
   },
   {
     "paper_id": "P126",
@@ -903,7 +976,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p126"
   },
   {
     "paper_id": "P127",
@@ -915,7 +989,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p127"
   },
   {
     "paper_id": "P128",
@@ -927,7 +1002,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p128"
   },
   {
     "paper_id": "P129",
@@ -938,7 +1014,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p129"
   },
   {
     "paper_id": "P130",
@@ -949,7 +1026,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p130"
   },
   {
     "paper_id": "P131",
@@ -960,7 +1038,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p131"
   },
   {
     "paper_id": "P132",
@@ -972,7 +1051,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p132"
   },
   {
     "paper_id": "P133",
@@ -983,7 +1063,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-三维重建与场景表示.md#paper-p133"
   },
   {
     "paper_id": "P134",
@@ -995,7 +1076,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p134"
   },
   {
     "paper_id": "P135",
@@ -1006,7 +1088,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p135"
   },
   {
     "paper_id": "P153",
@@ -1019,7 +1102,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2408.02208"
+    "source_url": "https://arxiv.org/abs/2408.02208",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p153"
   },
   {
     "paper_id": "P192",
@@ -1031,7 +1115,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p192"
   },
   {
     "paper_id": "P209",
@@ -1043,7 +1128,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p209"
   },
   {
     "paper_id": "P211",
@@ -1056,7 +1142,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p211"
   },
   {
     "paper_id": "P224",
@@ -1068,7 +1155,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p224"
   },
   {
     "paper_id": "P230",
@@ -1081,7 +1169,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p230"
   },
   {
     "paper_id": "P241",
@@ -1093,7 +1182,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p241"
   },
   {
     "paper_id": "P247",
@@ -1105,7 +1195,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p247"
   },
   {
     "paper_id": "P254",
@@ -1117,7 +1208,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p254"
   },
   {
     "paper_id": "P255",
@@ -1130,7 +1222,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p255"
   },
   {
     "paper_id": "P259",
@@ -1143,7 +1236,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p259"
   },
   {
     "paper_id": "P268",
@@ -1156,7 +1250,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p268"
   },
   {
     "paper_id": "P276",
@@ -1168,7 +1263,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p276"
   },
   {
     "paper_id": "P287",
@@ -1181,7 +1277,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p287"
   },
   {
     "paper_id": "P292",
@@ -1194,7 +1291,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p292"
   },
   {
     "paper_id": "P302",
@@ -1207,7 +1305,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p302"
   },
   {
     "paper_id": "P322",
@@ -1220,7 +1319,8 @@
       "大语言模型与智能体"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p322"
   },
   {
     "paper_id": "P323",
@@ -1232,7 +1332,8 @@
       "视觉、图形与三维场景"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-图像生成与编辑.md#paper-p323"
   },
   {
     "paper_id": "P331",
@@ -1244,7 +1345,8 @@
       "推荐、搜索与个性化"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p331"
   },
   {
     "paper_id": "P349",
@@ -1257,7 +1359,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tbme.2026.3693918"
+    "source_url": "https://doi.org/10.1109/tbme.2026.3693918",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p349"
   },
   {
     "paper_id": "P350",
@@ -1270,7 +1373,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tpami.2026.3704679"
+    "source_url": "https://doi.org/10.1109/tpami.2026.3704679",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p350"
   },
   {
     "paper_id": "P357",
@@ -1282,7 +1386,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/jbhi.2025.3591427"
+    "source_url": "https://doi.org/10.1109/jbhi.2025.3591427",
+    "discussion_path": "论文解读/05-高效视觉架构与学习.md#paper-p357"
   },
   {
     "paper_id": "P358",
@@ -1295,7 +1400,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1016/j.media.2025.103581"
+    "source_url": "https://doi.org/10.1016/j.media.2025.103581",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p358"
   },
   {
     "paper_id": "P359",
@@ -1307,7 +1413,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tcyb.2025.3531657"
+    "source_url": "https://doi.org/10.1109/tcyb.2025.3531657",
+    "discussion_path": "论文解读/02-视觉语言与多模态感知.md#paper-p359"
   },
   {
     "paper_id": "P364",
@@ -1320,7 +1427,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://doi.org/10.1145/3664647.3681395"
+    "source_url": "https://doi.org/10.1145/3664647.3681395",
+    "discussion_path": "论文解读/04-视觉识别与密集预测.md#paper-p364"
   },
   {
     "paper_id": "P365",
@@ -1334,6 +1442,7 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2603.06665"
+    "source_url": "https://arxiv.org/abs/2603.06665",
+    "discussion_path": "论文解读/06-视觉交叉应用与评估.md#paper-p365"
   }
 ]
