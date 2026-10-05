@@ -1,8 +1,8 @@
 # Vision, Graphics and 3D Survey
 
-### A guided literature review for readers learning research methods
+### Visual perception, scene representations and rendering
 
-**Understand visual representations, rendering and spatial understanding. Connect research questions to equations, compare representative and recent work, and follow paper-level evidence notes.**
+**Explore visual perception, 3D reconstruction, scene representations and controllable generation through method explanations, worked equations and source-linked thematic paper notes.**
 
 English | [中文](<README_ZH.md>)
 
@@ -32,13 +32,13 @@ No software installation is required. Markdown equations are intended for a math
 | [Paper catalog](<%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/README.md>) | 48 primary-domain papers, 61 cross-domain papers, 0 additional reading references |
 | [Bibliography](<bibliography.json>) | Public titles, index years, classifications, evidence levels and source links |
 
-The cards cover 12 full-text-section checks, 66 abstract-level checks, and 31 title-only entries. A full-text-section check means that relevant sections were consulted; it does not imply exhaustive reading. Abstract-only and title-only entries are labeled and do not establish detailed methods or results.
+The cards cover 12 full-text-section checks, 66 abstract-level checks, and 31 title-only entries. Full-text entries specify the sections checked; abstract entries summarize reported scope, and title-only entries identify reading leads. Detailed method and result claims require the cited sections and versions.
 
-The verification cutoff is **2026-10-02**. This is a curated, evolving review rather than an exhaustive systematic review. Index years, preprint versions and formal publication dates may differ; paper-level notes state these distinctions. Coverage overlaps with related field repositories, so counts across repositories cannot be added as unique papers.
+The verification cutoff is **2026-10-02**. This curated reading review selects papers for research-method learning and continues to evolve. Index years, preprint versions and formal publication dates may differ; paper-level notes state these distinctions. Coverage overlaps with related field repositories, so counts across repositories cannot be added as unique papers.
 
 ## Sources and corrections
 
-The reviews are educational summaries with links to original papers and official publication pages. Paper titles and research credit remain with their authors. Source links are provided instead of redistributing paper PDFs. Numerical or theoretical claims should be checked against the cited version and its assumptions. Corrections should identify the paper, version and supporting source.
+The reviews are educational summaries with links to original papers and official publication pages. Paper titles and research credit remain with their authors. Original papers can be consulted through the source links. Numerical or theoretical claims should be checked against the cited version and its assumptions. Corrections should identify the paper, version and supporting source.
 
 
 ## Read by research theme
